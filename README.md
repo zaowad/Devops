@@ -16,4 +16,12 @@
 ##### Building and running container for the first app. While creating the container we will use link command to add an alias for the second app's container to this one.
 ![imghw1-7](https://github.com/zaowad/Devops/blob/main/devops-ss/class_04/building_the_first_app_7.png)
 ![imghw1-8](https://github.com/zaowad/Devops/blob/main/devops-ss/class_04/running_the_first_app_by_linking_it_to_the_first_app_using_the_alias_second_8.png)
-
+##### Sending request from the server host namespace
+![imghw1-9](https://github.com/zaowad/Devops/blob/main/devops-ss/class_04/sending_request_from_server_host_namespace_9.png)
+### part2- load ballancing
+##### Python apllication file(app1.py) for the first app
+![imghw2-1](https://github.com/zaowad/Devops/blob/main/devops-ss/class_04/class_04_hw_part2_1.png)
+##### Dockerfile for first app
+![imghw2-2](https://github.com/zaowad/Devops/blob/main/devops-ss/class_04/class_04_hw_part2_2.png)
+##### Python application file(app2.py) for the second app
+![imghw2-3](https://github.com/zaowad/Devops/blob/main/devops-ss/class_04/class_04_hw_part2_3.png)
