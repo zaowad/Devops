@@ -13,3 +13,7 @@
 ##### First we will build the image of the second app and run a container from this. We will do it before running a container for the first app as the second app will be linked to the first app.
 ![imghw1-5](https://github.com/zaowad/Devops/blob/main/devops-ss/class_04/building_the_second_app_5.png)
 ![imghw1-6](https://github.com/zaowad/Devops/blob/main/devops-ss/class_04/running_the_second_app_beforehand_bcz_it_will_be_linked_to_the_first_app_6.png)
+##### Building and running container for the first app. While creating the container we will use link command to add an alias for the second app's container to this one.
+![imghw1-7](https://github.com/zaowad/Devops/blob/main/devops-ss/class_04/building_the_first_app_7.png)
+![imghw1-8](https://github.com/zaowad/Devops/blob/main/devops-ss/class_04/running_the_first_app_by_linking_it_to_the_first_app_using_the_alias_second_8.png)
+
